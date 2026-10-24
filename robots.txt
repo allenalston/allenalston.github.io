@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://allenalston.github.io/sitemap.xml
